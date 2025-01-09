@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --><h1 align="center">Hi 👋, I'm Meet Rana</h1>
 <h3 align="center">I'm a passionate Computer Science and Engineering student with a keen interest in AI, Machine Learning, Networking, and System Development. My journey is all about turning innovative ideas into reality while continually learning and growing as a developer. 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=innovatewithmeet&label=Profile%20views&color=0e75b6&style=flat" alt="innovatewithmeet" /> </p>
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
