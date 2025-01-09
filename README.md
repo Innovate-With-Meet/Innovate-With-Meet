@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Meet Rana S.</h1>
 <h3 align="center">I'm a passionate Computer Science and Engineering student with a keen interest in AI, Machine Learning, Networking, and System Development. My journey is all about turning innovative ideas into reality while continually learning and growing as a developer. 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/rana-meet-](https://www.linkedin.com/in/rana-meet-7503aa2ab/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-meet-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rana-meet-7503aa2ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-meet-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
