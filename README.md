@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d159af85-a8be-4abc-9881-2521a3747970" alt="Demo GIF" width="29%" height="29%" align="center" />
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d159af85-a8be-4abc-9881-2521a3747970" alt="Demo GIF" width="29%" height="29%" align="center" />
+</div>
 
 
 <!--
