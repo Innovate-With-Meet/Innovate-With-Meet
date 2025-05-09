@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Django-Framework?logo=django&logoColor=green&color=black)
 ![Static Badge](https://img.shields.io/badge/FastAPI-Framework?logo=fastapi&color=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSql-db?logo=postgresql&color=black)
+![Static Badge](https://img.shields.io/badge/Mysql-git?logo=mysql&logoColor=red&color=black)
 
 ##
 <h3> Technologies </h3>
@@ -28,7 +29,21 @@
 ![Static Badge](https://img.shields.io/badge/ScikitLearn-lib?logo=scikitlearn&color=black)
 ![Static Badge](https://img.shields.io/badge/Pandas-lib?logo=pandas&color=black)
 ![Static Badge](https://img.shields.io/badge/Node.Js-lib?logo=nodedotjs&color=black)
+![Static Badge](https://img.shields.io/badge/NPM-git?logo=npm&logoColor=red&color=black)
+
+##
+<h3> Tools</h3>
+
 ![Static Badge](https://img.shields.io/badge/FreecodeCamp-lib?logo=freecodecamp&logoColor=orange&color=black)
+![Static Badge](https://img.shields.io/badge/Git-git?logo=git&color=black)
+![Static Badge](https://img.shields.io/badge/Github-git?logo=github&color=black)
+![Static Badge](https://img.shields.io/badge/Leetcode-git?logo=leetcode&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/Hackerrank-git?logo=hackerrank&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/Codesandbox-git?logo=codesandbox&color=black)
+
+
+##
+<h3> Projects </h3>
 
 
 <!-- Deployment Badges
