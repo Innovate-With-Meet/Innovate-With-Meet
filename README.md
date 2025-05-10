@@ -6,7 +6,7 @@
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bodoni&size=26&duration=2400&pause=2500&color=000000&background=7779FF00&random=true&width=435&lines=It's+Meet+!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni&size=26&duration=2400&pause=2500&color=FFFFFF&background=7779FF00&random=true&width=435&lines=It's+Meet+!" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">A Neural Network Engineer and Machine Learning Enthusiast.</h3>
