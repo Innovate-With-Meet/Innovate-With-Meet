@@ -54,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
 
 <h3> Here is my streak</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Meet%20&theme=highcontrast&border_radius=40&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!-- Deployment Badges
