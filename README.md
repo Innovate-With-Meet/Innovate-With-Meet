@@ -45,6 +45,11 @@
 ##
 <h3> Projects </h3>
 
+![Static Badge](https://img.shields.io/badge/StudyWeb-project?logo=google&color=black)
+![Static Badge](https://img.shields.io/badge/DiseasePrediction-project?logo=django&color=black)
+![Static Badge](https://img.shields.io/badge/Urban%20Service-project?logo=fastapi&color=black)
+![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
+
 
 <!-- Deployment Badges
 [![pages-build-deployment](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment)
