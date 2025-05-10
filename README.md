@@ -1,17 +1,16 @@
-## Hi Developer 💻 Guys
+## Hi Developer's
 <!-- Name Gif-->
-<div align="center" > 
+<div align="center"> 
   <img src="https://github.com/user-attachments/assets/d159af85-a8be-4abc-9881-2521a3747970" alt="Demo GIF" width="29%" height="29%" align="center" />
+
+
+</div> <br>
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni&size=26&duration=2400&pause=2500&color=000000&background=7779FF00&random=true&width=435&lines=It's+Meet+!" alt="Typing SVG">
+  </a>
 </div>
-<br>
-
-<!-- <h1 align="center"> I'm Meet </h1> -->
-
-  <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bodoni&size=26&duration=2400&pause=2500&color=000000&background=7779FF00&random=true&width=435&lines=Hi+Dev!+It's+Meet+!)](https://git.io/typing-svg)
-  </div>
-  
 <h3 align="center">A Neural Network Engineer and Machine Learning Enthusiast.</h3>
 <h3 align="center">I Work as a Software Deveoper Intern At Grownited Pvt Ltd,  Now I'm going to take new oppotunity to boost my carrer in the field of Neural Network, Artificial Intelliengence and Machine Learning. </h3>
 
