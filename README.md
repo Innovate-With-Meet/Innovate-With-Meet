@@ -58,11 +58,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet&theme=highcontrast&border_radius=40&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /">
 </a>
 
-<div> 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=InnovateWithMeet&theme=highcontrast&border_radius=40&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-</div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Innovate-With-Meet&bg_color=8fb6ff&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true/">
+</a>
 
 <!-- Deployment Badges
 [![pages-build-deployment](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment)
