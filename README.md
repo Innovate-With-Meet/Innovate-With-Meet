@@ -56,18 +56,15 @@
 
 <h3><br></h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet&theme=highcontrast&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Innovate-With-Meet&bg_color=8fb6ff&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet&theme=highcontrast&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="400" height="200"/>
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Innovate-With-Meet&bg_color=8fb6ff&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="400" height="200"/>
+  </a>
+</div>
+
+
+
 
