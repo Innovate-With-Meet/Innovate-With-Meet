@@ -60,11 +60,11 @@
 <h3> Build Deployment </h3>
 
 [![pages-build-deployment](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment)
-
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet)](https://git.io/streak-stats)
 <h3><br></h3>
 
-<!--
+
 <div align="center" style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
   
   <a href="https://github.com/Innovate-With-Meet">
