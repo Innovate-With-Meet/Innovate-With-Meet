@@ -64,14 +64,17 @@
 
 <h3><br></h3>
 
+
 <div align="center" style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
   
+  <a href="https://github.com/Innovate-With-Meet">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet&theme=highcontrast&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="48%" />
+  </a>
   
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Innovate-With-Meet&theme=transparent" alt="GitHub Streak" />
-</a>
-
-
+  &nbsp;
   
+  <a href="https://github.com/Innovate-With-Meet">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Innovate-With-Meet&bg_color=8fb6ff&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="48%" />
+  </a>
 
 </div>
