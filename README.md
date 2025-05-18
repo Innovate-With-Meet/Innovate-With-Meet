@@ -63,7 +63,7 @@
 
 
 ##
-<h3> Open Sources Projects </h3>
+<h3> Open Sources Projects: </h3>
 
 ![Static Badge](https://img.shields.io/badge/StudyWeb-project?logo=google&color=black)
 ![Static Badge](https://img.shields.io/badge/DiseasePrediction-project?logo=django&color=black)
@@ -74,7 +74,7 @@
 
 
 ##
-<h3> Projects </h3>
+<h3> Current Learning Sources: </h3>
 
 ![Static Badge](https://img.shields.io/badge/StudyWeb-project?logo=google&color=black)
 ![Static Badge](https://img.shields.io/badge/DiseasePrediction-project?logo=django&color=black)
