@@ -74,12 +74,9 @@
 ##
 <h3> Current Learning Sources: </h3>
 
-![Static Badge](https://img.shields.io/badge/StudyWeb-project?logo=google&color=black)
-![Static Badge](https://img.shields.io/badge/DiseasePrediction-project?logo=django&color=black)
-![Static Badge](https://img.shields.io/badge/Urban%20Service-project?logo=fastapi&color=black)
-![Static Badge](https://img.shields.io/badge/PackPal-Project?logo=fastapi&color=black)
-![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
-![Static Badge](https://img.shields.io/badge/FocusFlow-Project?logo=publons&color=black)
+![Static Badge](https://img.shields.io/badge/FreecodeCamp-lib?logo=freecodecamp&logoColor=orange&color=black)
+![Static Badge](https://img.shields.io/badge/Youtube-tools?logo=youtube&logoColor=red&color=black)
+
 
 
 ##
