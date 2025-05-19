@@ -78,7 +78,7 @@
 ![Static Badge](https://img.shields.io/badge/Youtube-tools?logo=youtube&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Hackerrank-git?logo=hackerrank&logoColor=red&color=black)
 
-
+<!--
 ##
 <h3> Projects </h3>
 
@@ -88,7 +88,7 @@
 ![Static Badge](https://img.shields.io/badge/PackPal-Project?logo=fastapi&color=black)
 ![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
 ![Static Badge](https://img.shields.io/badge/FocusFlow-Project?logo=publons&color=black)
-
+-->
 
 ##
 <h3> Find Me Online </h3>
