@@ -92,11 +92,10 @@
 
 ##
 <h3> Find Me Online </h3>
-<a alt="https://mail.google.com/meetd6553">
-  
-![Static Badge](https://img.shields.io/badge/Gmail-tools?logo=gmail&logoColor=white&color=black)
-
+<a href="mailto:meetd6553@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tools?logo=gmail&logoColor=white&color=black" alt="Gmail Badge"/>
 </a>
+
 
 ##
 <h3> Build Deployment Status</h3>
