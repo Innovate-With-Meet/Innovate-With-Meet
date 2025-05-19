@@ -43,10 +43,13 @@
 ![Static Badge](https://img.shields.io/badge/Leetcode-git?logo=leetcode&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Hackerrank-git?logo=hackerrank&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Codesandbox-git?logo=codesandbox&color=black)
+![Static Badge](https://img.shields.io/badge/JupyterNoteBook-tools?logo=jupyter&labelColor=black&color=Orange)
+
+
 
 
 ##
-<h3> Projects </h3>
+<h3> Program (Projects) </h3>
 
 ![Static Badge](https://img.shields.io/badge/StudyWeb-project?logo=google&color=black)
 ![Static Badge](https://img.shields.io/badge/DiseasePrediction-project?logo=django&color=black)
