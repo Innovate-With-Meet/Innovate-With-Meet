@@ -92,7 +92,7 @@
 
 ##
 <h3> Find Me Online </h3>
-<a href="meetd6553@gmail.com">
+<a href="mailto:meetd6553@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-tools?logo=gmail&logoColor=white&color=black" alt="Gmail Badge"/>
 </a>
 
