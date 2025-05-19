@@ -101,7 +101,7 @@
 
 
 ##
-<h3> Build Deployment </h3>
+<h3> Build Deployment Status</h3>
 
 [![pages-build-deployment](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Innovate-With-Meet/Personal-Portfolio/actions/workflows/pages/pages-build-deployment)
 
