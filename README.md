@@ -59,7 +59,7 @@
 ![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
 ![Static Badge](https://img.shields.io/badge/FocusFlow-Project?logo=publons&color=black)
 
-
+<!--
 ##
 <h3> Open Sources Projects: </h3>
 
@@ -69,7 +69,7 @@
 ![Static Badge](https://img.shields.io/badge/PackPal-Project?logo=fastapi&color=black)
 ![Static Badge](https://img.shields.io/badge/Portfolio-project?logo=github&color=black)
 ![Static Badge](https://img.shields.io/badge/FocusFlow-Project?logo=publons&color=black)
-
+-->
 
 ##
 <h3> Current Learning Sources: </h3>
