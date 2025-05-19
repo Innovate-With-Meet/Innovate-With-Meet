@@ -43,7 +43,8 @@
 ![Static Badge](https://img.shields.io/badge/Leetcode-git?logo=leetcode&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Hackerrank-git?logo=hackerrank&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Codesandbox-git?logo=codesandbox&color=black)
-![Static Badge](https://img.shields.io/badge/JupyterNoteBook-tools?logo=jupyter&labelColor=black&color=Orange)
+![Static Badge](https://img.shields.io/badge/JupyterNoteBook-tools?logo=jupyter&color=black)
+
 
 
 
