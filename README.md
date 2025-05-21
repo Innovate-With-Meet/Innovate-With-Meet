@@ -77,6 +77,8 @@
 ![Static Badge](https://img.shields.io/badge/FreecodeCamp-lib?logo=freecodecamp&logoColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/Youtube-tools?logo=youtube&logoColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/Hackerrank-git?logo=hackerrank&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/kaggle-Tools?logo=kaggle&color=black)
+
 
 <!--
 ##
