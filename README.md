@@ -15,6 +15,8 @@
 ##
 <h3> Languages </h3>
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/2946254.png)](https://tryhackme.com/p/2946254)
+
 ![Static Badge](https://img.shields.io/badge/Python-Framework?logo=python&color=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-Framework?logo=javascript&color=black)
 ![Static Badge](https://img.shields.io/badge/Django-Framework?logo=django&logoColor=green&color=black)
