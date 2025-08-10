@@ -14,7 +14,6 @@
 
 ##
 <h3> Languages </h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2946254" style='border:none;'></iframe>
 
 ![Static Badge](https://img.shields.io/badge/Python-Framework?logo=python&color=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-Framework?logo=javascript&color=black)
